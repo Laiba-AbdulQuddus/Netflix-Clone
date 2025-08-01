@@ -1,2 +1,20 @@
-# Netflix-Clone
-This is a responsive clone of the Netflix Pakistan Landing Page, built with HTML and CSS. It mimics the UI of the real Netflix website, including hero sections, media features, FAQs, and a footer – perfect for frontend practice or portfolio display.
+# 🎬 Netflix Pakistan Landing Page Clone
+
+A fully responsive Netflix landing page clone built with HTML and CSS. This project replicates the look and feel of Netflix Pakistan’s homepage, focusing on layout, responsiveness, and clean design.
+
+## 🚀 Features
+
+- Hero section with background image and call-to-action
+- Media feature sections with images, video overlays, and descriptions
+- Interactive FAQ section with hover effects
+- Responsive design for desktop and mobile views
+- Styled footer with useful links and language dropdown
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (no frameworks)
+
+
+
+1. Clone the repo:
