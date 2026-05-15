@@ -59,11 +59,6 @@ Simply open `index.html` in your browser.
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots of your project here.
-
----
 
 # 🎯 Purpose of the Project
 
